@@ -1,0 +1,706 @@
+[
+  {
+    "etiqueta": "Betancuria",
+    "gcd_isla": "ES704",
+    "gcd_provincia": "ES701",
+    "geocode": 35007,
+    "poblacion": 789,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Artenara",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35005,
+    "poblacion": 1030,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Agulo",
+    "gcd_isla": "ES706",
+    "gcd_provincia": "ES702",
+    "geocode": 38002,
+    "poblacion": 1085,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Vilaflor de Chasna",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38052,
+    "poblacion": 1767,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Hermigua",
+    "gcd_isla": "ES706",
+    "gcd_provincia": "ES702",
+    "geocode": 38021,
+    "poblacion": 1795,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Fuencaliente de La Palma",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38014,
+    "poblacion": 1800,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Tejeda",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35025,
+    "poblacion": 1813,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Garafía",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38016,
+    "poblacion": 1830,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Barlovento",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38007,
+    "poblacion": 1897,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "El Pinar de El Hierro",
+    "gcd_isla": "ES703",
+    "gcd_provincia": "ES702",
+    "geocode": 38901,
+    "poblacion": 1971,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Alajeró",
+    "gcd_isla": "ES706",
+    "gcd_provincia": "ES702",
+    "geocode": 38003,
+    "poblacion": 2029,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Puntagorda",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38029,
+    "poblacion": 2293,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Puntallana",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38030,
+    "poblacion": 2547,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Tijarafe",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38047,
+    "poblacion": 2598,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "El Tanque",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38044,
+    "poblacion": 2813,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Fasnia",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38012,
+    "poblacion": 2849,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Vallehermoso",
+    "gcd_isla": "ES706",
+    "gcd_provincia": "ES702",
+    "geocode": 38050,
+    "poblacion": 2873,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Valleseco",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35032,
+    "poblacion": 3750,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "San Andrés y Sauces",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38033,
+    "poblacion": 4170,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Frontera",
+    "gcd_isla": "ES703",
+    "gcd_provincia": "ES702",
+    "geocode": "38013_2007",
+    "poblacion": 4329,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Tazacorte",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38045,
+    "poblacion": 4502,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Los Silos",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38042,
+    "poblacion": 4644,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Valle Gran Rey",
+    "gcd_isla": "ES706",
+    "gcd_provincia": "ES702",
+    "geocode": 38049,
+    "poblacion": 4674,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Buenavista del Norte",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38010,
+    "poblacion": 4753,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "San Juan de la Rambla",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38034,
+    "poblacion": 4864,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Villa de Mazo",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38053,
+    "poblacion": 4905,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Garachico",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38015,
+    "poblacion": 4920,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Valverde",
+    "gcd_isla": "ES703",
+    "gcd_provincia": "ES702",
+    "geocode": 38048,
+    "poblacion": 5123,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Haría",
+    "gcd_isla": "ES708",
+    "gcd_provincia": "ES701",
+    "geocode": 35010,
+    "poblacion": 5382,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "La Guancha",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38018,
+    "poblacion": 5561,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Arafo",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38004,
+    "poblacion": 5623,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Agaete",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35001,
+    "poblacion": 5633,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Breña Baja",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38009,
+    "poblacion": 5885,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Tinajo",
+    "gcd_isla": "ES708",
+    "gcd_provincia": "ES701",
+    "geocode": 35029,
+    "poblacion": 6573,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Breña Alta",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38008,
+    "poblacion": 7199,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "La Aldea de San Nicolás",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35020,
+    "poblacion": 7536,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Firgas",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35008,
+    "poblacion": 7581,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Vega de San Mateo",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35033,
+    "poblacion": 7682,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Moya",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35013,
+    "poblacion": 7870,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "El Paso",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38027,
+    "poblacion": 7901,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Arico",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38005,
+    "poblacion": 8754,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "El Sauzal",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38041,
+    "poblacion": 9005,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "La Matanza de Acentejo",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38025,
+    "poblacion": 9054,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "La Victoria de Acentejo",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38051,
+    "poblacion": 9170,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "San Sebastián de La Gomera",
+    "gcd_isla": "ES706",
+    "gcd_provincia": "ES702",
+    "geocode": 38036,
+    "poblacion": 9342,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Valsequillo de Gran Canaria",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35031,
+    "poblacion": 9490,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Santiago del Teide",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38040,
+    "poblacion": 11162,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Tegueste",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38046,
+    "poblacion": 11359,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Teror",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35027,
+    "poblacion": 12667,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Antigua",
+    "gcd_isla": "ES704",
+    "gcd_provincia": "ES701",
+    "geocode": 35003,
+    "poblacion": 12940,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Santa María de Guía de Gran Canaria",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35023,
+    "poblacion": 13838,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Santa Úrsula",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38039,
+    "poblacion": 15114,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Santa Cruz de La Palma",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38037,
+    "poblacion": 15361,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Tuineje",
+    "gcd_isla": "ES704",
+    "gcd_provincia": "ES701",
+    "geocode": 35030,
+    "poblacion": 15572,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Yaiza",
+    "gcd_isla": "ES708",
+    "gcd_provincia": "ES701",
+    "geocode": 35034,
+    "poblacion": 16924,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "El Rosario",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38032,
+    "poblacion": 17750,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Santa Brígida",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35021,
+    "poblacion": 18341,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "San Bartolomé",
+    "gcd_isla": "ES708",
+    "gcd_provincia": "ES701",
+    "geocode": 35018,
+    "poblacion": 18989,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Mogán",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35012,
+    "poblacion": 20331,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Los Llanos de Aridane",
+    "gcd_isla": "ES707",
+    "gcd_provincia": "ES702",
+    "geocode": 38024,
+    "poblacion": 20551,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Pájara",
+    "gcd_isla": "ES704",
+    "gcd_provincia": "ES701",
+    "geocode": 35015,
+    "poblacion": 20751,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Tías",
+    "gcd_isla": "ES708",
+    "gcd_provincia": "ES701",
+    "geocode": 35028,
+    "poblacion": 21083,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Güímar",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38020,
+    "poblacion": 21224,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Guía de Isora",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38019,
+    "poblacion": 21711,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "San Miguel de Abona",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38035,
+    "poblacion": 21915,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Teguise",
+    "gcd_isla": "ES708",
+    "gcd_provincia": "ES701",
+    "geocode": 35024,
+    "poblacion": 23411,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Icod de los Vinos",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38022,
+    "poblacion": 23496,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Gáldar",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35009,
+    "poblacion": 24567,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Tacoronte",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38043,
+    "poblacion": 24592,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "La Oliva",
+    "gcd_isla": "ES704",
+    "gcd_provincia": "ES701",
+    "geocode": 35014,
+    "poblacion": 27945,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Candelaria",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38011,
+    "poblacion": 28485,
+    "tipo_municipio": "Rural"
+  },
+  {
+    "etiqueta": "Puerto de la Cruz",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38028,
+    "poblacion": 30349,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Ingenio",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35011,
+    "poblacion": 31932,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Agüimes",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35002,
+    "poblacion": 32067,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Los Realejos",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38031,
+    "poblacion": 37076,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Arucas",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35006,
+    "poblacion": 38369,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Puerto del Rosario",
+    "gcd_isla": "ES704",
+    "gcd_provincia": "ES701",
+    "geocode": 35017,
+    "poblacion": 42024,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "La Orotava",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38026,
+    "poblacion": 42434,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Adeje",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38001,
+    "poblacion": 49270,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Granadilla de Abona",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38017,
+    "poblacion": 52447,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "San Bartolomé de Tirajana",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35019,
+    "poblacion": 52936,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Arrecife",
+    "gcd_isla": "ES708",
+    "gcd_provincia": "ES701",
+    "geocode": 35004,
+    "poblacion": 63750,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Santa Lucía de Tirajana",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35022,
+    "poblacion": 74560,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Arona",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38006,
+    "poblacion": 82982,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Telde",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35026,
+    "poblacion": 102472,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "San Cristóbal de La Laguna",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38023,
+    "poblacion": 157815,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Santa Cruz de Tenerife",
+    "gcd_isla": "ES709",
+    "gcd_provincia": "ES702",
+    "geocode": 38038,
+    "poblacion": 208688,
+    "tipo_municipio": "Urbano"
+  },
+  {
+    "etiqueta": "Las Palmas de Gran Canaria",
+    "gcd_isla": "ES705",
+    "gcd_provincia": "ES701",
+    "geocode": 35016,
+    "poblacion": 378797,
+    "tipo_municipio": "Urbano"
+  }
+]
