@@ -74,27 +74,6 @@ En la imagen siguiente puede observarse que en el apartado de colecciones del si
 
 En el enunciado de la práctica se pide además hacer uso de un data file guardado en el directorio ``_data`` del que obtener ciertos datos, en este caso yo he optado por un fichero de tipo JSON y que guarda la información sobre la población y tipología de cada municipio de Canarias y que se muestra en formato tabla en el post "Municipios". 
 
-<table>
-  <thead>
-    <tr>
-      <th>Nombre del municipio</th>
-      <th>Población</th>
-      <th>Tipo de municipio</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for municipio in site.data.csvjson_p9 %}
-        <tr>
-            <td>{{ municipio.etiqueta}}</td>
-            <td>{{ municipio.poblacion}}</td>
-            <td>{{ municipio.tipo_municipio}}</td>
-        </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
-> Fuente: [Datos obtenidos del Instituto Canario de Estadística](http://www.gobiernodecanarias.org/istac/)
-
 ### Página de error 404
 
 Además, de todo lo anterior he personalizado también la página de error 404, en este caso incorporando la llamada a una API que muestra fotos de gatos de manera aleatoria, cada vez que se carga esta página. 
