@@ -47,8 +47,7 @@ GEM
       logger
     faraday-net_http (3.3.0)
       net-http
-    ffi (1.17.0-x86_64-darwin)
-    ffi (1.17.0-x86_64-linux-gnu)
+    ffi (1.16.3)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -295,7 +294,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  ffi (~> 1.17)
+  ffi (= 1.16.3)
   github-pages
   jekyll-algolia
   jekyll-feed
