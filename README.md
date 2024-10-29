@@ -128,11 +128,11 @@ En la práctica se pedía además desarrollar una página persona en GitHub, en 
 
 Además de todos los aspectos más técnicos previos, también se pedía realizar un post con un resumen de la lectura que se pide en el enunciado de la práctica. Por lo que en mi caso he creado un nuevo post en el directorio correspondiente con el nombre ``2024-10-24-resumen.md`` y que contiene el siguiente resumen. 
 
-```md
+
 El desarrollo de sistemas engloba una serie de pasos a seguir. En primer lugar, realizar un estudio de factibilidad para analizar si el proyecto puede valer la pena. En segundo lugar, la obtención de los requisitos. Posteriormente, el diseño de la solución, la programación del sistema y el testeo del mismo. Y por último su implementación. Asimismo, también existen un conjunto de disciplinas adicionales que intervienen en el proceso de desarrollo de sistemas. Desde la gestión de proyectos, en la que el “project manager” planifica las tareas y moviliza los recursos necesarios. Pasando por el análisis del negocio, encargado de estudiar la situación del mismo, así como sus necesidades, y que por tanto facilita la obtención de los requisitos del propio sistema. Y por otro lado, la arquitectura de sistemas, la programación, el testeo, la gestión de la configuración del sistema y el control de calidad. 
 
 Actualmente, el desarrollo de sistemas también se ha visto afectado por dos tendencias crecientes, la deslocalización y la subcontratación. Respecto a la deslocalización, muchas organizaciones han visto que en muchas ocasiones utilizar los recursos en determinados países, distintos al de la propia compañía, como pueden ser el caso de India o países post soviéticos, es más barato. Y además, de buena calidad, como es el caso precisamente de India, país en el que su sistema educativo fomenta a los graduados en carreras tecnológicas. Sin embargo, esta deslocalización también lleva implícitas algunas desventajas como pueden ser los problemas de comunicación, entre otras cuestiones por los husos horarios, o el idioma. Y por otro lado, la subcontratación, aunque puede tener su relación con la deslocalización no tiene por qué, e implica que ciertas organizaciones delegan la gestión de sus sistemas de TI a otras empresas, delegando a su vez el riesgo que implican, pero a cambio de un importante presupuesto y de la pérdida de control sobre sus propios sistemas. 
-```
+
 
 ![alt text](my_resources/resumen.png)
 
