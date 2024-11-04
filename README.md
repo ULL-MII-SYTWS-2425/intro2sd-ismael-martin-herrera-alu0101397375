@@ -250,6 +250,14 @@ Como resultado se obtiene un buscador en el website que permite buscar en todas 
 
 ## Resumen del capítulo 2 del libro "Developing Information Systems"
 
+El capítulo aborda los diferentes tipos de ciclos de vida de desarrollo de sistemas (SDLC, por sus siglas en inglés) y explica sus enfoques y características. Estos ciclos se dividen en dos enfoques principales: lineal y evolutivo. El enfoque lineal incluye ciclos como el modelo en cascada y el modelo "V", que siguen una secuencia de pasos definidos, desde el estudio de factibilidad hasta la implementación. Estos ciclos son útiles para proyectos donde los requisitos son claros y no cambian con frecuencia.
+
+En contraste, los enfoques evolutivos, como el desarrollo iterativo y el modelo espiral, permiten desarrollar el sistema en fases que evolucionan con el tiempo. Estos enfoques se adaptan mejor a proyectos con requisitos inciertos o cambiantes, ya que permiten el ajuste continuo mediante la creación de prototipos y revisiones incrementales.
+
+El capítulo también comenta el impacto de metodologías ágiles, como Scrum y DSDM, que surgieron como respuestas a la necesidad de adaptarse rápidamente a los cambios y entregar valor de forma continua. Además, se mencionan enfoques híbridos que combinan elementos de ambos estilos, adaptándolos al contexto específico de cada proyecto.
+
+Finalmente, el capítulo proporciona una guía sobre cómo elegir el enfoque adecuado, considerando factores como la complejidad del proyecto, la estabilidad de los requisitos, la necesidad de rapidez en la entrega y el nivel de participación del cliente.
+
 ## Referencias
 
 
